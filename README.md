@@ -30,7 +30,7 @@ https://www.pcgamer.com/linux-in-windows-10/
 
 notes:
 -	Launch Xming before WSL
--	To launch desktop from WLS:
+-	To launch desktop from WSL:
 	`dbuslaunch --exit-with-session ~/.xsession`
 
 Step 4: get and install Matlab:
